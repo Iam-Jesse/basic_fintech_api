@@ -2,6 +2,10 @@
 
 This project contains API endpoints for a basic fintech application. This project takes cyber security into consideration, helmet middleware sits before every route to properly secure the endpoints. Furthermore, proper input validation checks, and logical checks were implemented.
 
+## Postman documentation
+
+https://documenter.getpostman.com/view/17573202/UUxtGBjV
+
 ## Stack
 
 ← NodeJs
